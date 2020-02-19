@@ -1,0 +1,7 @@
+README.md
+setup.py
+cdk_example_ingest/cdk_example_ingest.egg-info/PKG-INFO
+cdk_example_ingest/cdk_example_ingest.egg-info/SOURCES.txt
+cdk_example_ingest/cdk_example_ingest.egg-info/dependency_links.txt
+cdk_example_ingest/cdk_example_ingest.egg-info/requires.txt
+cdk_example_ingest/cdk_example_ingest.egg-info/top_level.txt
